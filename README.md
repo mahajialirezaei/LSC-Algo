@@ -48,7 +48,7 @@
 
 ## Usage
 
-To run the main script:
+To run the main script:
 
 
 ```bash
