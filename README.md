@@ -22,14 +22,14 @@
    ```bash
    git clone https://github.com/mahajialirezaei/LSC-Algo.git
    ```
-
+
 
 2. Navigate to the project directory:
 
    ```bash
    cd LSC-Algo
    ```
-
+
 
 3. (Optional) Create and activate a virtual environment:
 
@@ -37,14 +37,14 @@
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-
+
 
 4. Install any required dependencies (if applicable):
 
    ```bash
    pip install -r requirements.txt
    ```
-
+
 
 ## Usage
 
@@ -54,7 +54,7 @@ To run the main script:
 ```bash
 python main.py
 ```
-
+
 
 *Note: Without specific information about the script's functionality, users should refer to the code within `main.py` for understanding its behavior.*
 
